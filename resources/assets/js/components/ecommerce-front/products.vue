@@ -5,7 +5,7 @@
                 <div class="product-details">
                     <h4 class="pull-right">
                         <v-chip label color="orange" text-color="white">
-                           <v-icon left>label</v-icon>${{ item.price }}
+                           <v-icon left>label</v-icon>Php {{ item.price }}
                          </v-chip>
                     </h4>
                     <br />

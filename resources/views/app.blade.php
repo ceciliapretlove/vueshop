@@ -10,7 +10,7 @@
 {{--   <link rel="icon" type="image/png" sizes="16x16" href="../plugins/images/favicon.png">
  --}}
 
-  <title>Test ecommerce</title>
+  <title>Shop</title>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
   <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons' rel="stylesheet">
   <link href="{{asset('/css/app.css')}}" rel="stylesheet">
